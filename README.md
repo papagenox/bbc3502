@@ -34,10 +34,6 @@
 
 **Contact Info**
 
-* Phone: 18611066300
-* Email: [xliutong@bupt.edu.cn](mailto:xliutong@bupt.edu.cn)
-* Course Website: http://52.25.231.0/c2017
-
 **Advice**
 
 Just do it
