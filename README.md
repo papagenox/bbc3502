@@ -15,6 +15,7 @@
 * Computer System
 * Computer History
 * Computer Model and Abstract
+$x_i$
 
 **Programming**
 
