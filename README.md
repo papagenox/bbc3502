@@ -16,6 +16,8 @@
 * Computer History
 * Computer Model and Abstract
 
+$$x=\sqrt{2}$$
+
 **Programming**
 
 * Basic Concepts and Methods
