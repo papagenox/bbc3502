@@ -1,3 +1,5 @@
 Hello there,
 
-This is my first page.
+To C, or not to C.
+
+That is a question.
