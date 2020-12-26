@@ -25,6 +25,7 @@
 #include<stdio.h>
 int main()
 {
+    // This is a new comment added from local clone
     int num[10];
     int i, min, max, sum;
     float avg;
